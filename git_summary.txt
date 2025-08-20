@@ -1,0 +1,13 @@
+daftar Brench
+* Master
+  isekai
+  sekai
+daftar commit
+4d89631 nambahin file soehardto
+88cfe93 ini edit sikit
+bed0171 plisbisa
+daftar file .gitignore
+git2.css
+daftar git remote
+origin	git@github.com:KonjikiNoYamii/YamiProject.git (fetch)
+origin	git@github.com:KonjikiNoYamii/YamiProject.git (push)
