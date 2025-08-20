@@ -6,6 +6,7 @@ daftar commit
 4d89631 nambahin file soehardto
 88cfe93 ini edit sikit
 bed0171 plisbisa
+38c63c5 ini git_summary.txt
 daftar file .gitignore
 git2.css
 daftar git remote
